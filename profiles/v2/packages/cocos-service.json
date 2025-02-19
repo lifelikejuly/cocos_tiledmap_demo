@@ -1,0 +1,26 @@
+{
+  "__version__": "3.0.8",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "086012",
+        "services": []
+      },
+      "android": {
+        "configID": "086012",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1739503468000": {
+        "configID": "086012",
+        "services": []
+      }
+    },
+    "__version__": "1.3.9"
+  },
+  "builder-options": {
+    "configID": "086012",
+    "services": []
+  }
+}
